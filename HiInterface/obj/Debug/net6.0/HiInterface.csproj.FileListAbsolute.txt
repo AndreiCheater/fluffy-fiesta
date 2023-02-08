@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\C#\HiInterface\bin\Debug\net6.0\HiInterface.exe
+C:\Users\123\Desktop\C#\HiInterface\bin\Debug\net6.0\HiInterface.deps.json
+C:\Users\123\Desktop\C#\HiInterface\bin\Debug\net6.0\HiInterface.runtimeconfig.json
+C:\Users\123\Desktop\C#\HiInterface\bin\Debug\net6.0\HiInterface.dll
+C:\Users\123\Desktop\C#\HiInterface\bin\Debug\net6.0\HiInterface.pdb
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.AssemblyInfo.cs
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.dll
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\refint\HiInterface.dll
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.pdb
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\HiInterface.genruntimeconfig.cache
+C:\Users\123\Desktop\C#\HiInterface\obj\Debug\net6.0\ref\HiInterface.dll
