@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\C#\Bolls\bin\Debug\net6.0\Bolls.exe
+C:\Users\123\Desktop\C#\Bolls\bin\Debug\net6.0\Bolls.deps.json
+C:\Users\123\Desktop\C#\Bolls\bin\Debug\net6.0\Bolls.runtimeconfig.json
+C:\Users\123\Desktop\C#\Bolls\bin\Debug\net6.0\Bolls.dll
+C:\Users\123\Desktop\C#\Bolls\bin\Debug\net6.0\Bolls.pdb
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.AssemblyInfo.cs
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.dll
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\refint\Bolls.dll
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.pdb
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\Bolls.genruntimeconfig.cache
+C:\Users\123\Desktop\C#\Bolls\obj\Debug\net6.0\ref\Bolls.dll
