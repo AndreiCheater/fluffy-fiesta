@@ -1,0 +1,15 @@
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.csproj.AssemblyReference.cache
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.AssemblyInfoInputs.cache
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.AssemblyInfo.cs
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\C#\Sobaka\bin\Debug\net6.0\Sobaka.exe
+C:\Users\123\Desktop\C#\Sobaka\bin\Debug\net6.0\Sobaka.deps.json
+C:\Users\123\Desktop\C#\Sobaka\bin\Debug\net6.0\Sobaka.runtimeconfig.json
+C:\Users\123\Desktop\C#\Sobaka\bin\Debug\net6.0\Sobaka.dll
+C:\Users\123\Desktop\C#\Sobaka\bin\Debug\net6.0\Sobaka.pdb
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.dll
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\refint\Sobaka.dll
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.pdb
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\Sobaka.genruntimeconfig.cache
+C:\Users\123\Desktop\C#\Sobaka\obj\Debug\net6.0\ref\Sobaka.dll
