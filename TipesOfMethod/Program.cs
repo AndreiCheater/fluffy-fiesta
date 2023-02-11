@@ -1,4 +1,4 @@
-﻿// Tipe 1
+// Tipe 1
 void Method1()
 {
     Console.WriteLine("Author...");
@@ -38,13 +38,11 @@ Console.WriteLine(year);
 //Tipe
 string Method4(int count, string text)
 {
-    int i = 0;
     string result = String.Empty;
 
     while (i < count)
     {
         result = result + text;
-        i++;
     }
     return result;
 }
